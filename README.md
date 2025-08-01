@@ -15,4 +15,4 @@
         - jwt.secret
         - jwt.expiration.ms 
 
-- > ./gradlew bootRun
+- \> ./gradlew bootRun
